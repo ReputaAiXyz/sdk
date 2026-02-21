@@ -4,6 +4,7 @@
 Powered by **REPUTA AI**.
 
 Reputa AI is a decentralized reputation layer designed for autonomous agents, AI systems, and on-chain entities. It enables verifiable identity, trust scoring, and transparent behavioral history directly on blockchain infrastructure.
+Contract Address : Gy5NXeyWAdkJf6XJs7YLxNvPG3tyUbBbB68B61gtpump
 
 ---
 
